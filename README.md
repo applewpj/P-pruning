@@ -1,7 +1,7 @@
 # P-pruning
 Official code for LREC-COLING2024 paper "Pruning before Fine-tuning: A Retraining-free Compression Framework for Pre-trained Language Models"[[paper link](https://aclanthology.org/2024.lrec-main.1162/)]
 <div align="center">
-  <img src=figures/overview.pdf>
+  <img src=figure/overview.pdf>
 </div>
 
 
